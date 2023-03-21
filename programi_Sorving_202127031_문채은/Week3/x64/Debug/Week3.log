@@ -1,0 +1,5 @@
+﻿  Week3.cpp
+D:\202127031\problem_solving\programi_Sorving_202127031_문채은\Week3\Week3.cpp(10,25): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\202127031\problem_solving\programi_Sorving_202127031_문채은\Week3\Week3.cpp(110,17): warning C4551: 함수 호출에 인수 목록이 없습니다.
+D:\202127031\problem_solving\programi_Sorving_202127031_문채은\Week3\Week3.cpp(97,10): warning C4101: 'ch' :참조되지 않은 지역 변수입니다.
+  Week3.vcxproj -> D:\202127031\problem_solving\programi_Sorving_202127031_문채은\x64\Debug\Week3.exe
