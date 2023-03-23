@@ -1,0 +1,5 @@
+﻿  roman_to_cardinal.cpp
+D:\202127031\problem_solving\week2\roman_to_cardinal\roman_to_cardinal.cpp(10,25): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\202127031\problem_solving\week2\roman_to_cardinal\roman_to_cardinal.cpp(107,17): warning C4551: 함수 호출에 인수 목록이 없습니다.
+D:\202127031\problem_solving\week2\roman_to_cardinal\roman_to_cardinal.cpp(96,10): warning C4101: 'ch' :참조되지 않은 지역 변수입니다.
+  roman_to_cardinal.vcxproj -> D:\202127031\problem_solving\week2\x64\Debug\roman_to_cardinal.exe
